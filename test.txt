@@ -1,1 +1,2 @@
-Here is the first line of text
+Here is the first line of text.
+Adding a second line
